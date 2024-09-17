@@ -9,7 +9,7 @@ warnings.filterwarnings('ignore')
 startTime = time.time()
 
 print('免责声明：本软件仅限用于学习和研究目的，不得将本软件用于任何非法用途，否则一切后果请用户自负。您必须在下载后的24个小时之内将本软件“易班劣课.exe”从您的电脑中彻底删除。')
-print('开源协议：本软件遵循协议GPLv3协议，开源地址: https://github.com/EnderWolf006/YiBanClassGroupAutoViewer\n')
+print('开源协议：本软件遵循GPLv3协议，开源地址: https://github.com/EnderWolf006/YiBanClassGroupAutoViewer\n')
 print('第一步: 自行在浏览器上登录“易班劣课”')
 print('第二步: 在主页右上角头像下拉菜单中选择“我的课群”')
 print('第三步: 按键盘上的F12或Fn+F12键打开开发者工具')
